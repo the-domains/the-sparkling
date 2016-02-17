@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-17T23:01:07.144Z'
-dateModified: '2016-02-17T23:00:54.500Z'
+datePublished: '2016-02-17T23:08:11.213Z'
+dateModified: '2016-02-17T23:01:10.442Z'
 title: Your Project
 author: []
 sourcePath: _posts/2016-02-17-your-project.md
