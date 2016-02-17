@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-17T23:08:11.213Z'
-dateModified: '2016-02-17T23:01:10.442Z'
+datePublished: '2016-02-17T23:23:31.879Z'
+dateModified: '2016-02-17T23:23:27.640Z'
 title: Your Project
 author: []
 sourcePath: _posts/2016-02-17-your-project.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 **Your feelings. Your heritage**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de6f1d87-738e-4d6a-8727-a8cebcd0bbcb.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e79e5c283ece9e5fb2be00576fcb4ba11ab9354.jpg)
 
 Touch, feel, share your fondest memories.
 
