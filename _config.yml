@@ -1,0 +1,28 @@
+name: The Sparkling
+favicon: null
+layout_spectrum: 0.42867814586497843
+typography_spectrum: 0.23518128041177988
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3527522475924343
+  lightness: 0.6365722331684083
+  saturation: 0.07183093368075788
+  rhythmicContrast: 0.601378315128386
+purpose: []
