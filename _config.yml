@@ -1,7 +1,7 @@
 name: The Sparkling
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.23518128041177988
+layout_spectrum: 0.06661
+typography_spectrum: 0.47269
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#bebfc3'
     - '#898a8e'
     - '#68696d'
-  brandStrength: 0.3527522475924343
+  brandStrength: 0.75
   lightness: 0.6365722331684083
-  saturation: 0.07183093368075788
-  rhythmicContrast: 0.601378315128386
+  saturation: 0.4375
+  rhythmicContrast: 0
 purpose: []
